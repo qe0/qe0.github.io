@@ -1,0 +1,14 @@
+{
+    "name": "WEEEK NAME",
+    "short_name": "WEEEK short_name",
+    "icons": [
+      {
+        "src": "logo.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "./index.html",
+    "display": "standalone"
+  }
+  
